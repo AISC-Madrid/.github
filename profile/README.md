@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a **AISC Madrid**!
 
-**AISC Madrid** es la primera asociación de estudiantes de IA en la Escuela Politécnica Superior de la Universidad Carlos III de Madrid y también la primera rama europea del **AI Student Collective** 
+**AISC Madrid** es la primera asociación de estudiantes de IA en la Escuela Politécnica Superior de la Universidad Carlos III de Madrid y también la primera rama europea de **AI Student Collective** .
 
 **Nuestros objetivos:**
 - Desarrollar **habilidades prácticas** y demandadas en el campo de la IA.  
