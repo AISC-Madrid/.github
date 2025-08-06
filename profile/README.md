@@ -1,4 +1,4 @@
-# ¡Bienvenid@ a **AISC Madrid** 👋
+# ¡Bienvenid@ a **AISC Madrid**!
 
 **AISC Madrid** es la primera asociación de estudiantes de IA en la Escuela Politécnica Superior de la Universidad Carlos III de Madrid y también la primera rama europea del **AI Student Collective** 
 
@@ -13,7 +13,7 @@
 Talleres, proyectos, charlas y más — impulsados por estudiantes con apoyo de la industria y expertos.  
 Además, promovemos espacios donde puedes **aprender, proponer, colaborar o compartir ideas**.
 
-En nuestro perfil de GitHub encontraréis todos los recursos que utilicemos!
+¡En nuestro perfil de GitHub encontraréis todos los recursos que utilicemos!
 
 
 ---
@@ -25,7 +25,9 @@ Visita nuestra [web](https://aiscmadrid.com/)  para descubrir formas de colabora
 
 ---
 
-## 📌 Ubicación & contacto
+## 📌 Contacto y ubicación
+
+aisc.asoc@uc3m.es
 
 Leganés, Madrid (Campus UC3M, Edificio Sabatini despacho 2.3.C05)  
   
