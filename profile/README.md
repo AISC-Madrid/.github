@@ -36,5 +36,3 @@ Leganés, Madrid (Campus UC3M, Edificio Sabatini despacho 2.3.C05)
 [LinkedIn](https://www.linkedin.com/company/ai-student-collective-madrid)
 
 [Instagram](https://www.instagram.com/aisc_madrid/)
-
-[Comunidad de Whatsapp](https://www.linkedin.com/company/ai-student-collective-madrid)
