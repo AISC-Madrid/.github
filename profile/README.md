@@ -31,7 +31,7 @@ aisc.asoc@uc3m.es
 
 Leganés, Madrid (Campus UC3M, Edificio Sabatini despacho 2.3.C05)  
   
-────────────────────────────────────────────────────────────────────────────────
+---
 
 [LinkedIn](https://www.linkedin.com/company/ai-student-collective-madrid)
 
